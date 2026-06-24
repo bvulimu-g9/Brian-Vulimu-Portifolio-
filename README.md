@@ -15,7 +15,7 @@ Applied Statistics with Computing graduate from the University of Eldoret with e
 ## Website
 
 Visit my portfolio:
-https://your-portfolio-link
+https:bvulimu-g9.github.io.
 
 ## Contact
 
